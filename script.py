@@ -1,6 +1,6 @@
 # script.py
 def main():
-    mensagem = "Olá, GitHub Actions!"
+    mensagem = "esse é o trabalho da gabi e do gabriel!"
     
     # Escrever mensagem em um arquivo
     with open("mensagem.txt", "w") as f:
